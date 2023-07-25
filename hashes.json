@@ -1636,14 +1636,14 @@
             "mtime": 1686462556.3658314
         },
         "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1.safetensors": {
-            "model": "0870c68cb198c6020efc6fb40cbbac72a9cbbbc7792b28fb69c2c243ed6f7a62",
-            "legacy": "2c61a78b",
-            "mtime": 1686462778.0349638
+            "model": "df11d9e225b579cd077652011362eadf52a898463665b9f0b57edbb6d1258aa7",
+            "legacy": "b77f4655",
+            "mtime": 1689935357.410056
         },
         ".\\models\\Lora\\suou_patra\\suou_patra-v1.safetensors": {
-            "model": "0870c68cb198c6020efc6fb40cbbac72a9cbbbc7792b28fb69c2c243ed6f7a62",
-            "legacy": "2c61a78b",
-            "mtime": 1686462778.0349638
+            "model": "df11d9e225b579cd077652011362eadf52a898463665b9f0b57edbb6d1258aa7",
+            "legacy": "b77f4655",
+            "mtime": 1689935357.410056
         },
         "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000001.safetensors": {
             "model": "c1fb490595382e48a261992f77235136f7f7ca6cf35763263f7d21ff097658f9",
@@ -1686,14 +1686,14 @@
             "mtime": 1686740511.196651
         },
         "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000005.safetensors": {
-            "model": "070f58d5ba84bc040838413a8f750695968927297f6dc5d364a4f0e9864261a5",
-            "legacy": "54b0ce62",
-            "mtime": 1686740796.9753127
+            "model": "368fea48c331f90708a66b03c8f66404ff163f3845d850b2306031cfbde020c2",
+            "legacy": "56bc088a",
+            "mtime": 1690163781.3054035
         },
         ".\\models\\Lora\\suou_patra\\suou_patra-v2-000005.safetensors": {
-            "model": "070f58d5ba84bc040838413a8f750695968927297f6dc5d364a4f0e9864261a5",
-            "legacy": "54b0ce62",
-            "mtime": 1686740796.9753127
+            "model": "368fea48c331f90708a66b03c8f66404ff163f3845d850b2306031cfbde020c2",
+            "legacy": "56bc088a",
+            "mtime": 1690163781.3054035
         },
         "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000006.safetensors": {
             "model": "4a3075b98354dc4692aa4e61909881cd0a92afe8042bec87e3b804909bca56d8",
@@ -1716,14 +1716,14 @@
             "mtime": 1686741367.9485667
         },
         "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2.safetensors": {
-            "model": "a15b5e5b60f55bbdf706c7a6e78c94aa6c61d9c157e6525cefbd858bb8e1887e",
-            "legacy": "bc333466",
-            "mtime": 1686741595.5134237
+            "model": "e6d8cd27b6d2ffad1324fb4b5f9ff1306c85d82ccdf0a278f4e5d4c9d789a693",
+            "legacy": "2f8e3670",
+            "mtime": 1690167002.6302872
         },
         ".\\models\\Lora\\suou_patra\\suou_patra-v2.safetensors": {
-            "model": "a15b5e5b60f55bbdf706c7a6e78c94aa6c61d9c157e6525cefbd858bb8e1887e",
-            "legacy": "bc333466",
-            "mtime": 1686741595.5134237
+            "model": "e6d8cd27b6d2ffad1324fb4b5f9ff1306c85d82ccdf0a278f4e5d4c9d789a693",
+            "legacy": "2f8e3670",
+            "mtime": 1690167002.6302872
         },
         "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v3-000001.safetensors": {
             "model": "7c91935670cda24daf3cf0966df1f90084b4a6bda777ac986f183dff81cf27d9",
@@ -2864,6 +2864,626 @@
             "model": "5ac3b2d7a85e8360d442de8d939a7521a16d5c2d292d2df9df140e4ef427f915",
             "legacy": "6fd1f4ad",
             "mtime": 1688653593.4885862
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-000020.safetensors": {
+            "model": "56783f617d2b505b1abe8283a6fd71cb32e822905a1d4d5534bdf68492ebc1b9",
+            "legacy": "2331d78e",
+            "mtime": 1689084054.413471
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-000020.safetensors": {
+            "model": "56783f617d2b505b1abe8283a6fd71cb32e822905a1d4d5534bdf68492ebc1b9",
+            "legacy": "2331d78e",
+            "mtime": 1689084054.413471
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-000050.safetensors": {
+            "model": "29497f2df336f6e6cc6e7a370ba3c91659217821b497078c8b2b5b9eb964945f",
+            "legacy": "5231712a",
+            "mtime": 1689085491.9341471
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-000050.safetensors": {
+            "model": "29497f2df336f6e6cc6e7a370ba3c91659217821b497078c8b2b5b9eb964945f",
+            "legacy": "5231712a",
+            "mtime": 1689085491.9341471
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-000100.safetensors": {
+            "model": "5852c99a921b499b6ce5dd993172e3017760aa38ca424e8c47f334d1fda22392",
+            "legacy": "b9ea5c46",
+            "mtime": 1689087890.9654732
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-000100.safetensors": {
+            "model": "5852c99a921b499b6ce5dd993172e3017760aa38ca424e8c47f334d1fda22392",
+            "legacy": "b9ea5c46",
+            "mtime": 1689087890.9654732
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-000150.safetensors": {
+            "model": "de1314d79384668d744b9db835c8dfb551581b9c838a5aefb83ab30fa22223b7",
+            "legacy": "28e23b88",
+            "mtime": 1689090245.2886572
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-000150.safetensors": {
+            "model": "de1314d79384668d744b9db835c8dfb551581b9c838a5aefb83ab30fa22223b7",
+            "legacy": "28e23b88",
+            "mtime": 1689090245.2886572
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi.safetensors": {
+            "model": "aaba45040363a2d03ea6cd7add9c30fb3e138c9f30c1afc82e9f750d619959ff",
+            "legacy": "53892cc5",
+            "mtime": 1689092615.0911086
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi.safetensors": {
+            "model": "aaba45040363a2d03ea6cd7add9c30fb3e138c9f30c1afc82e9f750d619959ff",
+            "legacy": "53892cc5",
+            "mtime": 1689092615.0911086
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000010.safetensors": {
+            "model": "93abb507f4c1ab0c0106517b86c766f90b4a99a8adeaeae9461387a87345feed",
+            "legacy": "1f7f9b34",
+            "mtime": 1689161499.0271752
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000010.safetensors": {
+            "model": "93abb507f4c1ab0c0106517b86c766f90b4a99a8adeaeae9461387a87345feed",
+            "legacy": "1f7f9b34",
+            "mtime": 1689161499.0271752
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000020.safetensors": {
+            "model": "f813b9c5b2f5ad72c5216e7b7877bbc1c840809103c837c9f60bbe71b32d50ff",
+            "legacy": "1f317bc3",
+            "mtime": 1689162173.0965388
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000020.safetensors": {
+            "model": "f813b9c5b2f5ad72c5216e7b7877bbc1c840809103c837c9f60bbe71b32d50ff",
+            "legacy": "1f317bc3",
+            "mtime": 1689162173.0965388
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000030.safetensors": {
+            "model": "55f78005d50b25f81b5175306ddd57e461e66d34015fcd8e6beb3a7fe782b983",
+            "legacy": "20ad8039",
+            "mtime": 1689162836.4749935
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000030.safetensors": {
+            "model": "55f78005d50b25f81b5175306ddd57e461e66d34015fcd8e6beb3a7fe782b983",
+            "legacy": "20ad8039",
+            "mtime": 1689162836.4749935
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000040.safetensors": {
+            "model": "0dd46fb56a5e60c88613929709d5d98d45b0a8ebb5dd8915b7220b2c27286371",
+            "legacy": "7f84ea42",
+            "mtime": 1689163486.0435002
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000040.safetensors": {
+            "model": "0dd46fb56a5e60c88613929709d5d98d45b0a8ebb5dd8915b7220b2c27286371",
+            "legacy": "7f84ea42",
+            "mtime": 1689163486.0435002
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000050.safetensors": {
+            "model": "408859b2eee596c0bbe693c9b746531241c00f9575eef12dce3028c0a7081c03",
+            "legacy": "67a5c7ff",
+            "mtime": 1689164133.7237518
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000050.safetensors": {
+            "model": "408859b2eee596c0bbe693c9b746531241c00f9575eef12dce3028c0a7081c03",
+            "legacy": "67a5c7ff",
+            "mtime": 1689164133.7237518
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000060.safetensors": {
+            "model": "277679165d7e9da079461965ae04a03d9712bf0b688a3c0dc2c01be26b92aa47",
+            "legacy": "a23bfc91",
+            "mtime": 1689164781.17864
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000060.safetensors": {
+            "model": "277679165d7e9da079461965ae04a03d9712bf0b688a3c0dc2c01be26b92aa47",
+            "legacy": "a23bfc91",
+            "mtime": 1689164781.17864
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000070.safetensors": {
+            "model": "edf71be31558b34a9a35385dd594630512fb7210553f4f0a5c888975388303da",
+            "legacy": "2734e28b",
+            "mtime": 1689165428.6750975
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000070.safetensors": {
+            "model": "edf71be31558b34a9a35385dd594630512fb7210553f4f0a5c888975388303da",
+            "legacy": "2734e28b",
+            "mtime": 1689165428.6750975
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000080.safetensors": {
+            "model": "3b9970db8a7a4ade71c87ade89efff8a85c615088d736d75d2e708bf8598fc9d",
+            "legacy": "44f91a52",
+            "mtime": 1689166075.7849083
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000080.safetensors": {
+            "model": "3b9970db8a7a4ade71c87ade89efff8a85c615088d736d75d2e708bf8598fc9d",
+            "legacy": "44f91a52",
+            "mtime": 1689166075.7849083
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000090.safetensors": {
+            "model": "0a135b0ac939540e5199d15bb05bddd912bd4c96b1bc6eaf4ec7fa42258b410c",
+            "legacy": "93334701",
+            "mtime": 1689166723.055672
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000090.safetensors": {
+            "model": "0a135b0ac939540e5199d15bb05bddd912bd4c96b1bc6eaf4ec7fa42258b410c",
+            "legacy": "93334701",
+            "mtime": 1689166723.055672
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000100.safetensors": {
+            "model": "7224cafed049f37b8d4717a2909ef35d7c4ca7b6c023a81b952f24a093cabf43",
+            "legacy": "fe2ef1b2",
+            "mtime": 1689167370.473742
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000100.safetensors": {
+            "model": "7224cafed049f37b8d4717a2909ef35d7c4ca7b6c023a81b952f24a093cabf43",
+            "legacy": "fe2ef1b2",
+            "mtime": 1689167370.473742
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000110.safetensors": {
+            "model": "b1e74b6409009dbe525b67ea908d7c6a207649f399f1b52679bc39a92af6ddf6",
+            "legacy": "f2482a3c",
+            "mtime": 1689168017.8476908
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000110.safetensors": {
+            "model": "b1e74b6409009dbe525b67ea908d7c6a207649f399f1b52679bc39a92af6ddf6",
+            "legacy": "f2482a3c",
+            "mtime": 1689168017.8476908
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000120.safetensors": {
+            "model": "df39119423c6ee313eba5541dfb4ca25986e3b4ba514c687ab9b178c050fcb63",
+            "legacy": "ac426d27",
+            "mtime": 1689168665.2395718
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000120.safetensors": {
+            "model": "df39119423c6ee313eba5541dfb4ca25986e3b4ba514c687ab9b178c050fcb63",
+            "legacy": "ac426d27",
+            "mtime": 1689168665.2395718
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000130.safetensors": {
+            "model": "c64cc8b90cd4aaa49541544d4ce066c38dbd591a9029a7fcd22e8bd26dfcbd29",
+            "legacy": "202208d9",
+            "mtime": 1689169312.585477
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000130.safetensors": {
+            "model": "c64cc8b90cd4aaa49541544d4ce066c38dbd591a9029a7fcd22e8bd26dfcbd29",
+            "legacy": "202208d9",
+            "mtime": 1689169312.585477
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000140.safetensors": {
+            "model": "9f0b139d2e5f08399d4327163f2a7139f8beaa5923063d9b6a1427e1e68964ac",
+            "legacy": "8cfdf389",
+            "mtime": 1689169960.1122506
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000140.safetensors": {
+            "model": "9f0b139d2e5f08399d4327163f2a7139f8beaa5923063d9b6a1427e1e68964ac",
+            "legacy": "8cfdf389",
+            "mtime": 1689169960.1122506
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000150.safetensors": {
+            "model": "f15e568f4955d6708416e6060715f66fa6b1237ac030d9b02ce9cd05bfd8259b",
+            "legacy": "eeedb207",
+            "mtime": 1689170608.525026
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000150.safetensors": {
+            "model": "f15e568f4955d6708416e6060715f66fa6b1237ac030d9b02ce9cd05bfd8259b",
+            "legacy": "eeedb207",
+            "mtime": 1689170608.525026
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000160.safetensors": {
+            "model": "9e235ba992eca80bfb73ce457a97bdf99f3d43ac0e169aaf497408da1ed2a4e9",
+            "legacy": "2180a08d",
+            "mtime": 1689171255.9442277
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000160.safetensors": {
+            "model": "9e235ba992eca80bfb73ce457a97bdf99f3d43ac0e169aaf497408da1ed2a4e9",
+            "legacy": "2180a08d",
+            "mtime": 1689171255.9442277
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000170.safetensors": {
+            "model": "893fc3d7aecc452adf02763c8dcac5e8132cfc9a0e59f23dfe956b4d4cd493e2",
+            "legacy": "1e21752f",
+            "mtime": 1689171903.2771146
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000170.safetensors": {
+            "model": "893fc3d7aecc452adf02763c8dcac5e8132cfc9a0e59f23dfe956b4d4cd493e2",
+            "legacy": "1e21752f",
+            "mtime": 1689171903.2771146
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000180.safetensors": {
+            "model": "8529b7b409a20a1c6312b17130b03a2962cbf32c691b3667f5075110f4778848",
+            "legacy": "d87b802f",
+            "mtime": 1689172558.5202184
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000180.safetensors": {
+            "model": "8529b7b409a20a1c6312b17130b03a2962cbf32c691b3667f5075110f4778848",
+            "legacy": "d87b802f",
+            "mtime": 1689172558.5202184
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1-000190.safetensors": {
+            "model": "9436572a8dd787af9965e8729a3dc606b2d3b6dfb7e3b1567aae9930d41a45a0",
+            "legacy": "b9e0d327",
+            "mtime": 1689173211.1383739
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1-000190.safetensors": {
+            "model": "9436572a8dd787af9965e8729a3dc606b2d3b6dfb7e3b1567aae9930d41a45a0",
+            "legacy": "b9e0d327",
+            "mtime": 1689173211.1383739
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\chisaka_airi\\chisaka_airi-v1.safetensors": {
+            "model": "24231f9fd0e180f9569e1a82fe45d80537ec5734dd5e425e4ce5a6e6bc664790",
+            "legacy": "c12b4218",
+            "mtime": 1689173854.9582942
+        },
+        ".\\models\\Lora\\chisaka_airi\\chisaka_airi-v1.safetensors": {
+            "model": "24231f9fd0e180f9569e1a82fe45d80537ec5734dd5e425e4ce5a6e6bc664790",
+            "legacy": "c12b4218",
+            "mtime": 1689173854.9582942
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000010.safetensors": {
+            "model": "2cf048a45382ded3397ee71175873f5b36a2f852723ff35a645a40417577257e",
+            "legacy": "8cec07c0",
+            "mtime": 1689910702.7188787
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000010.safetensors": {
+            "model": "2cf048a45382ded3397ee71175873f5b36a2f852723ff35a645a40417577257e",
+            "legacy": "8cec07c0",
+            "mtime": 1689910702.7188787
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000020.safetensors": {
+            "model": "5108a807520b213aa72ccbaf4c253939f3040a07fcac1dd6fd0dc1a4ee34a4d2",
+            "legacy": "62cd918d",
+            "mtime": 1689911993.401337
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000020.safetensors": {
+            "model": "5108a807520b213aa72ccbaf4c253939f3040a07fcac1dd6fd0dc1a4ee34a4d2",
+            "legacy": "62cd918d",
+            "mtime": 1689911993.401337
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000030.safetensors": {
+            "model": "7f564723851c8704b9156392b80d622ad8e3293db97f174d6d6bf5b93536d328",
+            "legacy": "8187f3f4",
+            "mtime": 1689913283.905872
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000030.safetensors": {
+            "model": "7f564723851c8704b9156392b80d622ad8e3293db97f174d6d6bf5b93536d328",
+            "legacy": "8187f3f4",
+            "mtime": 1689913283.905872
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000040.safetensors": {
+            "model": "52aa2722c445de9c954c76a1fcf2c08d9c5e01bc58688af7eb893722cc4f5a42",
+            "legacy": "f5f96f96",
+            "mtime": 1689914577.116511
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000040.safetensors": {
+            "model": "52aa2722c445de9c954c76a1fcf2c08d9c5e01bc58688af7eb893722cc4f5a42",
+            "legacy": "f5f96f96",
+            "mtime": 1689914577.116511
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000050.safetensors": {
+            "model": "ff66b6533182d4f54543634fd63823cd9e51eda85bcd0a4a81931ea01f98743a",
+            "legacy": "ff4e4be2",
+            "mtime": 1689915871.8069425
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000050.safetensors": {
+            "model": "ff66b6533182d4f54543634fd63823cd9e51eda85bcd0a4a81931ea01f98743a",
+            "legacy": "ff4e4be2",
+            "mtime": 1689915871.8069425
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000060.safetensors": {
+            "model": "c8240c176f7cfb05bdd6d82aec37b0f335926b0282ad1fae40288ff3e2b70915",
+            "legacy": "21046379",
+            "mtime": 1689917150.5693586
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000060.safetensors": {
+            "model": "c8240c176f7cfb05bdd6d82aec37b0f335926b0282ad1fae40288ff3e2b70915",
+            "legacy": "21046379",
+            "mtime": 1689917150.5693586
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000070.safetensors": {
+            "model": "b64c7abe73a8630d98f0d8a0715d6b3390b0f0b30ea9f1ee31e6bde84de65f41",
+            "legacy": "d344649f",
+            "mtime": 1689918455.57999
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000070.safetensors": {
+            "model": "b64c7abe73a8630d98f0d8a0715d6b3390b0f0b30ea9f1ee31e6bde84de65f41",
+            "legacy": "d344649f",
+            "mtime": 1689918455.57999
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000080.safetensors": {
+            "model": "82a35a32bbc47a693078be70bc32c5d6b577ffe131396cf39e5237cc15349caf",
+            "legacy": "cda43e20",
+            "mtime": 1689919756.2064872
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000080.safetensors": {
+            "model": "82a35a32bbc47a693078be70bc32c5d6b577ffe131396cf39e5237cc15349caf",
+            "legacy": "cda43e20",
+            "mtime": 1689919756.2064872
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000090.safetensors": {
+            "model": "8864f9992681f0022ea570267f04afeccbc64751175762e6c38381b90f3704a7",
+            "legacy": "46587408",
+            "mtime": 1689921065.1646426
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000090.safetensors": {
+            "model": "8864f9992681f0022ea570267f04afeccbc64751175762e6c38381b90f3704a7",
+            "legacy": "46587408",
+            "mtime": 1689921065.1646426
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000100.safetensors": {
+            "model": "fe2f68af67cde71bf5b41541e2af458b7103ef1c8ab83e45e54554248012a800",
+            "legacy": "4457b3e9",
+            "mtime": 1689922377.3785388
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000100.safetensors": {
+            "model": "fe2f68af67cde71bf5b41541e2af458b7103ef1c8ab83e45e54554248012a800",
+            "legacy": "4457b3e9",
+            "mtime": 1689922377.3785388
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000110.safetensors": {
+            "model": "3d1965d786ef50af529bd835bbb02fbde0b44e4c6f6005466223958b8458e06b",
+            "legacy": "c41f18b1",
+            "mtime": 1689923686.4319012
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000110.safetensors": {
+            "model": "3d1965d786ef50af529bd835bbb02fbde0b44e4c6f6005466223958b8458e06b",
+            "legacy": "c41f18b1",
+            "mtime": 1689923686.4319012
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000120.safetensors": {
+            "model": "73c843b13e15a16295261b3ffdca3e66144eb798bf0e8ed031933e85ab2a0371",
+            "legacy": "d10d2536",
+            "mtime": 1689924981.908656
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000120.safetensors": {
+            "model": "73c843b13e15a16295261b3ffdca3e66144eb798bf0e8ed031933e85ab2a0371",
+            "legacy": "d10d2536",
+            "mtime": 1689924981.908656
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000130.safetensors": {
+            "model": "4eba89d6d67ed12f1fc0575856d1da137334dcaa85b1bcf293127aed45798523",
+            "legacy": "fdb11a87",
+            "mtime": 1689926288.7673938
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000130.safetensors": {
+            "model": "4eba89d6d67ed12f1fc0575856d1da137334dcaa85b1bcf293127aed45798523",
+            "legacy": "fdb11a87",
+            "mtime": 1689926288.7673938
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000140.safetensors": {
+            "model": "c61de92ebd0d47cf0b3073f3c6b710ca7fbd268eba7db226e2c598aa0626fde3",
+            "legacy": "c67f6f54",
+            "mtime": 1689927592.3409338
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000140.safetensors": {
+            "model": "c61de92ebd0d47cf0b3073f3c6b710ca7fbd268eba7db226e2c598aa0626fde3",
+            "legacy": "c67f6f54",
+            "mtime": 1689927592.3409338
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000150.safetensors": {
+            "model": "3c5cb834d66135787f9f2bce2076e513f9984c4dd134719cc5d9df39f4a39e96",
+            "legacy": "4d56c2ee",
+            "mtime": 1689928896.8378723
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000150.safetensors": {
+            "model": "3c5cb834d66135787f9f2bce2076e513f9984c4dd134719cc5d9df39f4a39e96",
+            "legacy": "4d56c2ee",
+            "mtime": 1689928896.8378723
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000160.safetensors": {
+            "model": "eff84197bd50ca908c5ad9f221d0bd93fdd67e2219ecf7cb397d39c73104de92",
+            "legacy": "2ebac3d9",
+            "mtime": 1689930185.5356834
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000160.safetensors": {
+            "model": "eff84197bd50ca908c5ad9f221d0bd93fdd67e2219ecf7cb397d39c73104de92",
+            "legacy": "2ebac3d9",
+            "mtime": 1689930185.5356834
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000170.safetensors": {
+            "model": "446e855a7f876470fce471155efd779376596b688ce4d45456dce2096facd5ff",
+            "legacy": "d4e33c6d",
+            "mtime": 1689931475.3039725
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000170.safetensors": {
+            "model": "446e855a7f876470fce471155efd779376596b688ce4d45456dce2096facd5ff",
+            "legacy": "d4e33c6d",
+            "mtime": 1689931475.3039725
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000180.safetensors": {
+            "model": "d790fd39c621b8706bc10115f240bac7204a59b790016785f279fdb4fdee525a",
+            "legacy": "2adb0a2b",
+            "mtime": 1689932769.9073899
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000180.safetensors": {
+            "model": "d790fd39c621b8706bc10115f240bac7204a59b790016785f279fdb4fdee525a",
+            "legacy": "2adb0a2b",
+            "mtime": 1689932769.9073899
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v1-000190.safetensors": {
+            "model": "98611d9a0c7f752abbcd0782df19bb04762b29137d5ead982cbf2afe7099d692",
+            "legacy": "0300b2e3",
+            "mtime": 1689934070.0458505
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v1-000190.safetensors": {
+            "model": "98611d9a0c7f752abbcd0782df19bb04762b29137d5ead982cbf2afe7099d692",
+            "legacy": "0300b2e3",
+            "mtime": 1689934070.0458505
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000010.safetensors": {
+            "model": "66d0b3c062143e1ca26520119961e538d35a4fb0f9ebaa7c2b0d5a30fd9e4098",
+            "legacy": "ecc95a31",
+            "mtime": 1690163950.3930292
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000010.safetensors": {
+            "model": "66d0b3c062143e1ca26520119961e538d35a4fb0f9ebaa7c2b0d5a30fd9e4098",
+            "legacy": "ecc95a31",
+            "mtime": 1690163950.3930292
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000015.safetensors": {
+            "model": "5f5f8fedb41e7c63b4c31fd17060f8b2f5313c443f165a8dfdc4127f7edb0853",
+            "legacy": "a2745f16",
+            "mtime": 1690164120.0207899
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000015.safetensors": {
+            "model": "5f5f8fedb41e7c63b4c31fd17060f8b2f5313c443f165a8dfdc4127f7edb0853",
+            "legacy": "a2745f16",
+            "mtime": 1690164120.0207899
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000020.safetensors": {
+            "model": "85fb9f4a31a9ca1ca2e88495d24d25a0293ca24f1255823ae9db2754d8f9d633",
+            "legacy": "ce58024b",
+            "mtime": 1690164289.0394967
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000020.safetensors": {
+            "model": "85fb9f4a31a9ca1ca2e88495d24d25a0293ca24f1255823ae9db2754d8f9d633",
+            "legacy": "ce58024b",
+            "mtime": 1690164289.0394967
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000025.safetensors": {
+            "model": "3589f39313f971d4eee20f2c31441f4bdbb3383fda00c977c4914d9d6d20d4c4",
+            "legacy": "decbf92d",
+            "mtime": 1690164458.6151319
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000025.safetensors": {
+            "model": "3589f39313f971d4eee20f2c31441f4bdbb3383fda00c977c4914d9d6d20d4c4",
+            "legacy": "decbf92d",
+            "mtime": 1690164458.6151319
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000030.safetensors": {
+            "model": "d9f5be42eee936cad7842ef4eddbeeb175e4fd318ffb4f14fec0b149352629fc",
+            "legacy": "eaf10337",
+            "mtime": 1690164628.1364987
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000030.safetensors": {
+            "model": "d9f5be42eee936cad7842ef4eddbeeb175e4fd318ffb4f14fec0b149352629fc",
+            "legacy": "eaf10337",
+            "mtime": 1690164628.1364987
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000035.safetensors": {
+            "model": "b77d6332af53e1f1fbaad438c59ce0ffd1a184b5d8c6b6ea3a3bb420c9134e14",
+            "legacy": "7f81dadf",
+            "mtime": 1690164797.367729
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000035.safetensors": {
+            "model": "b77d6332af53e1f1fbaad438c59ce0ffd1a184b5d8c6b6ea3a3bb420c9134e14",
+            "legacy": "7f81dadf",
+            "mtime": 1690164797.367729
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000040.safetensors": {
+            "model": "dbaee9cf7ca944c51a7a81f96b36c56e287f71d10f0cbd77ad3bef29b13fe4f1",
+            "legacy": "8aa21782",
+            "mtime": 1690164966.844578
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000040.safetensors": {
+            "model": "dbaee9cf7ca944c51a7a81f96b36c56e287f71d10f0cbd77ad3bef29b13fe4f1",
+            "legacy": "8aa21782",
+            "mtime": 1690164966.844578
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000045.safetensors": {
+            "model": "45cf7627709ae15370c47dcd57ef68c0fd0f68c30686513e2cb0218ac441bab5",
+            "legacy": "adf3a474",
+            "mtime": 1690165136.2399838
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000045.safetensors": {
+            "model": "45cf7627709ae15370c47dcd57ef68c0fd0f68c30686513e2cb0218ac441bab5",
+            "legacy": "adf3a474",
+            "mtime": 1690165136.2399838
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000050.safetensors": {
+            "model": "e72462537fd1027c22e5ef5ed5b6774d19d56509d0359b48596acbbef8c8b232",
+            "legacy": "61705300",
+            "mtime": 1690165305.3470914
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000050.safetensors": {
+            "model": "e72462537fd1027c22e5ef5ed5b6774d19d56509d0359b48596acbbef8c8b232",
+            "legacy": "61705300",
+            "mtime": 1690165305.3470914
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000055.safetensors": {
+            "model": "702fce5dff37556cb0f8b31f4ea7d0c8ceeb34d328f2fb45032be98efc4382ac",
+            "legacy": "8dbaaf63",
+            "mtime": 1690165475.313623
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000055.safetensors": {
+            "model": "702fce5dff37556cb0f8b31f4ea7d0c8ceeb34d328f2fb45032be98efc4382ac",
+            "legacy": "8dbaaf63",
+            "mtime": 1690165475.313623
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000060.safetensors": {
+            "model": "2d4f5ff12ae7bdb63f55713ca7916972acedb00fc7d6ec87fa2432169a6f8ffc",
+            "legacy": "4cc43f08",
+            "mtime": 1690165644.6038086
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000060.safetensors": {
+            "model": "2d4f5ff12ae7bdb63f55713ca7916972acedb00fc7d6ec87fa2432169a6f8ffc",
+            "legacy": "4cc43f08",
+            "mtime": 1690165644.6038086
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000065.safetensors": {
+            "model": "4294500b3ea856ef0902c53ce0cc96f4b69ba4cb2f9c94895b481dc8b6ed3fc2",
+            "legacy": "b9f28337",
+            "mtime": 1690165814.5244055
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000065.safetensors": {
+            "model": "4294500b3ea856ef0902c53ce0cc96f4b69ba4cb2f9c94895b481dc8b6ed3fc2",
+            "legacy": "b9f28337",
+            "mtime": 1690165814.5244055
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000070.safetensors": {
+            "model": "b907b14f6a1f5b7711b62768b3d0d1a04c38545eff636f60b0eb32cfa04e7312",
+            "legacy": "74f39bb9",
+            "mtime": 1690165984.366495
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000070.safetensors": {
+            "model": "b907b14f6a1f5b7711b62768b3d0d1a04c38545eff636f60b0eb32cfa04e7312",
+            "legacy": "74f39bb9",
+            "mtime": 1690165984.366495
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000075.safetensors": {
+            "model": "ac4de2a9570882d2a4ee09fc5321b80c23dfaa62825a3a5ace82b5d40d64e02d",
+            "legacy": "8f50f78c",
+            "mtime": 1690166154.2446852
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000075.safetensors": {
+            "model": "ac4de2a9570882d2a4ee09fc5321b80c23dfaa62825a3a5ace82b5d40d64e02d",
+            "legacy": "8f50f78c",
+            "mtime": 1690166154.2446852
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000080.safetensors": {
+            "model": "b0674cf581a289e658996fead363de3f2de309349618fff155ec23c80aa0e5ff",
+            "legacy": "b6849c09",
+            "mtime": 1690166323.7161043
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000080.safetensors": {
+            "model": "b0674cf581a289e658996fead363de3f2de309349618fff155ec23c80aa0e5ff",
+            "legacy": "b6849c09",
+            "mtime": 1690166323.7161043
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000085.safetensors": {
+            "model": "6f3c6b7f6df42ffe9dd8af2a5944447b24effd680dce57655d83822c2f87701f",
+            "legacy": "4afd6b0f",
+            "mtime": 1690166493.107575
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000085.safetensors": {
+            "model": "6f3c6b7f6df42ffe9dd8af2a5944447b24effd680dce57655d83822c2f87701f",
+            "legacy": "4afd6b0f",
+            "mtime": 1690166493.107575
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000090.safetensors": {
+            "model": "48ee06e9355087bfdbd02fa3abce09d4120ada44b8a9db43df88c4f34666c6f0",
+            "legacy": "675e5672",
+            "mtime": 1690166662.8349798
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000090.safetensors": {
+            "model": "48ee06e9355087bfdbd02fa3abce09d4120ada44b8a9db43df88c4f34666c6f0",
+            "legacy": "675e5672",
+            "mtime": 1690166662.8349798
+        },
+        "C:\\Users\\amirul\\GitRepos\\auto1111-sdwebui\\models/lora\\suou_patra\\suou_patra-v2-000095.safetensors": {
+            "model": "d946756234a6e6cdac38fe28af26a701e20898e7909db42263fb73489147e86e",
+            "legacy": "b296f671",
+            "mtime": 1690166832.9500685
+        },
+        ".\\models\\Lora\\suou_patra\\suou_patra-v2-000095.safetensors": {
+            "model": "d946756234a6e6cdac38fe28af26a701e20898e7909db42263fb73489147e86e",
+            "legacy": "b296f671",
+            "mtime": 1690166832.9500685
         }
     }
 }
